@@ -1,0 +1,6 @@
+id=Keep-Termux-Alive
+name=Keep-Termux-Alive
+version=v1.0.0
+versionCode=1
+author=lveMonsi
+description=定时检测Termux是否前台运行,否则自动启动
